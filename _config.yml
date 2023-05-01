@@ -1,4 +1,9 @@
-remote_theme: pages-themes/modernist@v0.2.0
-theme: jekyll-theme-modernist
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# Site settings
+title: Great New Blog Title
+author:
+  name: Evan Will
+  email: your-email@domain.com
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
